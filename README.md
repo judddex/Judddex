@@ -2,32 +2,30 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>React Native</b>
+  - [Whiz App - iOS & Android](https://github.com/judechimaobi10/whiz-app)
+  - [LitApp](https://github.com/judechimaobi10/lit-app) 
 - <b>React</b>
   - [LitApp](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>HTML, CSS & PHP</b>
   - [Kulvix business Website](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-- <b>React Native</b>
-  - [LitApp](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>HTML, CSS & PHP</b>
-  - [Kulvix business Website](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2>✨ UI/UX Projects:</h2>
-- <b>HTML, CSS & PHP</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  
+
+- [Superteam Crypto Timeline Design Animated](https://figma.com/judechimaobi)
+- [Cyberfort Responsive Website Design](https://figma.com/judechimaobi)
+
+
 <h2>💻 Graphics Design Projects:</h2>
-- <b>HTML, CSS & PHP</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-  
-<h2>📺 Popular YouTube Videos</h2>
+- [Logos](https://behance.net/judechimaobi)
+- [Social Media Banners](https://behance.net/judechimaobi)
+- [Magazines](https://behance.net/judechimaobi)
+- [Flyer Designs](https://behance.net/judechimaobi)
+- [Business Portfolio Designs](https://behance.net/judechimaobi)
+- [Mersh Designs](https://behance.net/judechimaobi)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
