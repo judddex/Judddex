@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jude! <br/><a href="https://github.com/judddex">Programmer</a>, <a href="https://www.linkedin.com/in/judechimaobi/">Web2/Web3 Developer</a>, <a href="https://www.behance.net/judechimaobi">Graphics & UIUX Designer</a></h1>
+<h1>Hi, I'm Jude! <br/><a href="https://GitHub.com/judechimaobi10">Software Engineer</a>, <a href="https://www.linkedin.com/in/judechimaobi/">Web2/Web3 Developer</a>, <a href="https://www.behance.net/judechimaobi">Graphics & UIUX Designer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
