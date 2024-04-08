@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Solidity</b>
+  - [Token Sale Contract](https://github.com/judechimaobi10/Token-Sale)
 - <b>React Native</b>
   - [Whiz App - iOS & Android](https://github.com/judechimaobi10/whiz-app)
   - [LitApp](https://github.com/judechimaobi10/lit-app) 
