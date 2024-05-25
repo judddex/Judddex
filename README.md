@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jude! <br/><a href="https://GitHub.com/judechimaobi10">Software Engineer</a>, <a href="https://www.linkedin.com/in/judechimaobi/">Web2/Web3 Developer</a>, <a href="https://www.behance.net/judechimaobi">Graphics & UIUX Designer</a></h1>
+<h1>Hi, I'm Jude! <br/></h1>
 
 ![Github Cover just rounded](https://github.com/judechimaobi/judechimaobi/assets/32282619/592de2a3-34fa-4bb8-9d07-0afd1eec2512)
 
