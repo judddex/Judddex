@@ -1,9 +1,24 @@
-<h1>Hi, I'm Jude! <br/></h1>
+# Hi, I'm Jude 👋🏾 👩🏾‍💻
 
 ![Github Cover just rounded](https://github.com/judechimaobi/judechimaobi/assets/32282619/592de2a3-34fa-4bb8-9d07-0afd1eec2512)
 
 I'm a full stack Software Engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Solidity, React Native, ReactJS, JavaScript, APIs + Markup, PHP MySQL.
 
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="JudeChimaobi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JudeChimaobi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JudeChimaobi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JudeChimaobi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://linkedin.com/in/judechimaobi
+[twitter]: https://twitter.com/judechimaobi
+[youtube]: https://www.youtube.com/c/judechimaobi
+[instagram]: https://www.instagram.com/judechimaobi/
+
+
+<br />
+<!--
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Solidity</b>
@@ -32,30 +47,4 @@ I'm a full stack Software Engineer who is passionate about making contributing t
 - [Business Portfolio Designs](https://behance.net/judechimaobi)
 - [Mersh Designs](https://behance.net/judechimaobi)
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JudeChimaobi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JudeChimaobi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JudeChimaobi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JudeChimaobi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/judechimaobi
-[youtube]: https://www.youtube.com/c/judechimaobi
-[instagram]: https://www.instagram.com/judechimaobi/
-[linkedin]: https://linkedin.com/in/judechimaobi
-
-<!--
-**JudeChimaobi/JudeChimaobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
