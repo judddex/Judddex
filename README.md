@@ -2,7 +2,7 @@
 
 ![Github Cover just rounded](https://github.com/judechimaobi/judechimaobi/assets/32282619/592de2a3-34fa-4bb8-9d07-0afd1eec2512)
 
-I'm a full stack Software Engineer who is passionate about building projects that impact positively on the society, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Solidity, React Native, Vanilla JavaScript, APIs + Markup, PHP MySQL, CSS, Tailwind CSS.
+I'm a full stack Software Engineer who is passionate about building projects that impact positively on the society, creating technology to elevate people, and using technologies to solve real-world problems. Some technologies I enjoy working with include ReactJS, Solidity, React Native, Vanilla JavaScript, APIs + Markup, PHP, MySQL, CSS, and Tailwind CSS.
 
 <h2>Connect with me:</h2>
 
