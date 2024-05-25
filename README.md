@@ -1,5 +1,10 @@
 <h1>Hi, I'm Jude! <br/><a href="https://GitHub.com/judechimaobi10">Software Engineer</a>, <a href="https://www.linkedin.com/in/judechimaobi/">Web2/Web3 Developer</a>, <a href="https://www.behance.net/judechimaobi">Graphics & UIUX Designer</a></h1>
 
+![Github-coverArtboard-1-copy](https://github.com/judechimaobi/judechimaobi/assets/32282619/53c2a477-ee8c-4481-bdd6-01be0592affa)
+
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Jude Chimaobi - software engineer, Web2/Web3 Developer and Graphics & Ui/Ux Designer alongside a cartoon illustration of Monica">
+I'm a full stack Software Engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Solidity, React Native, ReactJS, JavaScript, APIs + Markup, PHP MySQL.
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Solidity</b>
